@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PassIn.Api.Controllers.EventsController",
+    "Method": "Register",
+    "RelativePath": "api/Events",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PassIn.Communication.Requests.RequestEventJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
