@@ -10,3 +10,4 @@ C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Infrastructure\obj\Debug\ne
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.sourcelink.json
