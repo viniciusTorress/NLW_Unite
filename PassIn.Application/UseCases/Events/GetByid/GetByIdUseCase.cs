@@ -18,14 +18,14 @@ namespace PassIn.Application.UseCases.Events.GetByid
             var eventEntity = dbContext.Events.FirstOrDefault(f => f.Id == id);
 
             if (eventEntity is null)
-                throw new PassInException("An event with this id dont exist.");
+                throw new NotFoundException("An event with this id dont exist.");
 
             return new ResponseEventJson
             {
                 Id = eventEntity.Id,
                 Title = eventEntity.Title,
                 Details = eventEntity.Details,
-                MaximumAttendees = eventEntity.Maximum_Attendes,
+                MaximumAttendees = eventEntity.Maximum_Attendees,
                 AttendeesAmount = -1
             };
 

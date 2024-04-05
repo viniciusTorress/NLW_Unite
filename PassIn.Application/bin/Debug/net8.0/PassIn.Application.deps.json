@@ -360,7 +360,6 @@
       },
       "PassIn.Infrastructure/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.3",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.3"
         },
         "runtime": {

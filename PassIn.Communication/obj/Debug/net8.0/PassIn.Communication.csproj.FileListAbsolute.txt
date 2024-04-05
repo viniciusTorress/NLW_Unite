@@ -10,3 +10,4 @@ C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Communication\obj\Debug\net
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.csproj.AssemblyReference.cache
+C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json

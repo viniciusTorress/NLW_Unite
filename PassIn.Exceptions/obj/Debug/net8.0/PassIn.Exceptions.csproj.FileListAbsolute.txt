@@ -10,3 +10,4 @@ C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Exceptions\obj\Debug\net8.0
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
 C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.csproj.AssemblyReference.cache
+C:\Users\vinia\OneDrive\Documentos\www\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json
