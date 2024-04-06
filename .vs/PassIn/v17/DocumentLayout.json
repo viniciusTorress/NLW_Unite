@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\checkin\\attendeechecinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\checkin\\attendeechecinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\attendees\\getallattenddessbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\attendees\\getallattenddessbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\events\\attendee\\registerattendeeeventonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\attendee\\registerattendeeeventonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\events\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.infrastructure\\entities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.communication\\responses\\responseattendeejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|solutionrelative:passin.communication\\responses\\responseattendeejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.application\\usecases\\events\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|c:\\users\\vinia\\onedrive\\documentos\\www\\passin\\passin.communication\\responses\\responseallattendeesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|solutionrelative:passin.communication\\responses\\responseallattendeesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB13F9E2-BEAD-448C-8464-65242BD45912}|Itens de Solu\u00E7\u00E3o{AB13F9E2-BEAD-448C-8464-65242BD45912}|C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,68 +97,72 @@
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConflictException.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\ConflictException.cs",
-              "RelativeDocumentMoniker": "PassIn.Exceptions\\ConflictException.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\ConflictException.cs",
-              "RelativeToolTip": "PassIn.Exceptions\\ConflictException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:38:50.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterAttendeeEventonUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventonUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventonUseCase.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventonUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventonUseCase.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAADwvz8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T03:41:55.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetByIdUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA3wBQAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:25:22.821Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterEventUsecase.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAOAAAA",
+              "Title": "AttendeeChecInUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\CheckIn\\AttendeeChecInUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\CheckIn\\AttendeeChecInUseCase.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\CheckIn\\AttendeeChecInUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\CheckIn\\AttendeeChecInUseCase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:18:39.078Z",
+              "WhenOpened": "2024-04-06T05:32:44.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "PassIn.Api\\Controllers\\EventsController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAwC4AAABWAAAA",
+              "Title": "CheckInController.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\CheckInController.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\CheckInController.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\CheckInController.cs",
+              "RelativeToolTip": "PassIn.Api\\Controllers\\CheckInController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:09:28.046Z",
+              "WhenOpened": "2024-04-06T05:26:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterAttendeeEventOnUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventOnUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventOnUseCase.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventOnUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Attendee\\RegisterAttendeeEventOnUseCase.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:23:38.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
+              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Event.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:00:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllAttenddessByEventIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Attendees\\GetAllAttenddessByEventIdUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Attendees\\GetAllAttenddessByEventIdUseCase.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Attendees\\GetAllAttenddessByEventIdUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Attendees\\GetAllAttenddessByEventIdUseCase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:21:33.449Z",
               "EditorCaption": ""
             },
             {
@@ -161,79 +173,105 @@
               "RelativeDocumentMoniker": "PassIn.Infrastructure\\PassInDBContext.cs",
               "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\PassInDBContext.cs",
               "RelativeToolTip": "PassIn.Infrastructure\\PassInDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T03:45:21.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Attendee.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Attendee.cs",
-              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Attendee.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Attendee.cs",
-              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Attendee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T03:43:07.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "PassIn.Exceptions\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "PassIn.Exceptions\\ErrorOnValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T03:15:43.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Program.cs",
               "RelativeDocumentMoniker": "PassIn.Api\\Program.cs",
               "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Program.cs",
               "RelativeToolTip": "PassIn.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T03:21:14.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
-              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "DocumentIndex": 9,
+              "Title": "RegisterEventUsecase.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUsecase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:00:47.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "PassIn.Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "PassIn.Exceptions\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T03:13:43.622Z",
+              "WhenOpened": "2024-04-06T04:39:49.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "GetByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\GetByid\\GetByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:23:23.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "PassIn.Api\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:09:28.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendeesController.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\AttendeesController.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\AttendeesController.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Api\\Controllers\\AttendeesController.cs",
+              "RelativeToolTip": "PassIn.Api\\Controllers\\AttendeesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:12:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseAttendeeJson.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "RelativeDocumentMoniker": "PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "RelativeToolTip": "PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:43:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseAllAttendeesjson.cs",
+              "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Communication\\Responses\\ResponseAllAttendeesjson.cs",
+              "RelativeDocumentMoniker": "PassIn.Communication\\Responses\\ResponseAllAttendeesjson.cs",
+              "ToolTip": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\PassIn.Communication\\Responses\\ResponseAllAttendeesjson.cs",
+              "RelativeToolTip": "PassIn.Communication\\Responses\\ResponseAllAttendeesjson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:19:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassIn\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -241,8 +279,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-04T17:51:27.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:51:27.24Z"
             }
           ]
         }

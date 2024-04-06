@@ -1,8 +1,145 @@
 [
   {
+    "ContainingType": "PassIn.Api.Controllers.AttendeesController",
+    "Method": "GetAll",
+    "RelativePath": "api/attendees/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PassIn.Communication.Responses.ResponseAllAttendeesjson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "PassIn.Api.Controllers.AttendeesController",
+    "Method": "RegisterAttendee",
+    "RelativePath": "api/attendees/{eventId}/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "PassIn.Communication.Requests.RequestRegisterEventJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PassIn.Communication.Responses.ResponseResgisteredJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
+      }
+    ]
+  },
+  {
+    "ContainingType": "PassIn.Api.Controllers.CheckInController",
+    "Method": "AttendeesCheckIn",
+    "RelativePath": "api/checkin/{attendeeId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PassIn.Communication.Responses.ResponseResgisteredJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
+      }
+    ]
+  },
+  {
     "ContainingType": "PassIn.Api.Controllers.EventsController",
     "Method": "Register",
-    "RelativePath": "api/Events",
+    "RelativePath": "api/events",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -37,7 +174,7 @@
   {
     "ContainingType": "PassIn.Api.Controllers.EventsController",
     "Method": "GetById",
-    "RelativePath": "api/Events/{id}",
+    "RelativePath": "api/events/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -57,60 +194,6 @@
           "text/json"
         ],
         "StatusCode": 200
-      },
-      {
-        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 404
-      }
-    ]
-  },
-  {
-    "ContainingType": "PassIn.Api.Controllers.EventsController",
-    "Method": "RegisterAttendee",
-    "RelativePath": "api/Events/{id}/register",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "eventId",
-        "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "request",
-        "Type": "PassIn.Communication.Requests.RequestRegisterEventJson",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "PassIn.Communication.Responses.ResponseResgisteredJson",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 201
-      },
-      {
-        "Type": "PassIn.Communication.Responses.ResponseErrorJson",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
       },
       {
         "Type": "PassIn.Communication.Responses.ResponseErrorJson",

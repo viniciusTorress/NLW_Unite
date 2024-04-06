@@ -8,6 +8,7 @@ namespace PassIn.Infrastructure
     {
         public DbSet<Event> Events { get; set; }
         public DbSet<Attendee> Attendees { get; set; }
+        public DbSet<CheckIn> checkIns { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite("Data Source=C:\\Users\\vinia\\OneDrive\\Documentos\\www\\PassInDb.db");
