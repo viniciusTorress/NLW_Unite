@@ -11,10 +11,10 @@ using System.Threading.Tasks;
 
 namespace PassIn.Application.UseCases.Events.Attendee
 {
-    public class RegisterAttendeeEventonUseCase
+    public class RegisterAttendeeEventOnUseCase
     {
         private readonly PassInDBContext _context;
-        public RegisterAttendeeEventonUseCase()
+        public RegisterAttendeeEventOnUseCase()
         {
 
             _context = new PassInDBContext();
@@ -26,7 +26,7 @@ namespace PassIn.Application.UseCases.Events.Attendee
             {
                 Email = request.Email,
                 Name = request.Name,
-                Event_id = eventId,
+                Event_Id = eventId,
                 Created_At= DateTime.UtcNow,
             };
             
@@ -57,7 +57,7 @@ namespace PassIn.Application.UseCases.Events.Attendee
                 throw new ConflictException("You can not register twice on the same event");
             }
 
-            var attendeesForEvent = _context.Attendees.Count(c => c.Event_id == eventId);
+            var attendeesForEvent = _context.Attendees.Count(c => c.Event_Id == eventId);
             if (attendeesForEvent == eventExist.Maximum_Attendees) {
                 throw new ErrorOnValidationException("There is not room for this event");
             }
@@ -75,7 +75,7 @@ namespace PassIn.Application.UseCases.Events.Attendee
         }
 
         private bool IsAtteendeeResgistered(string email, Guid eventId) {
-             return _context.Attendees.Any(a => a.Event_id == eventId && a.Email.Equals(email));
+             return _context.Attendees.Any(a => a.Event_Id == eventId && a.Email.Equals(email));
         }
     }
 }

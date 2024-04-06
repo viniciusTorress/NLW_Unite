@@ -1,22 +1,18 @@
-﻿using PassIn.Communication.Responses;
+﻿using Microsoft.EntityFrameworkCore;
+using PassIn.Communication.Responses;
 using PassIn.Exceptions;
 using PassIn.Infrastructure;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PassIn.Application.UseCases.Events.GetByid
 {
     public class GetByIdUseCase
     {
-        public ResponseEventJson Execute(Guid id) 
+        public ResponseEventJson Execute(Guid eventId) 
         {
             var dbContext = new PassInDBContext();
 
-            var eventEntity = dbContext.Events.FirstOrDefault(f => f.Id == id);
-
+            var eventEntity = dbContext.Events.Include(i => i.Attendees).FirstOrDefault(f => f.Id == eventId);
+            
             if (eventEntity is null)
                 throw new NotFoundException("An event with this id dont exist.");
 
@@ -26,7 +22,7 @@ namespace PassIn.Application.UseCases.Events.GetByid
                 Title = eventEntity.Title,
                 Details = eventEntity.Details,
                 MaximumAttendees = eventEntity.Maximum_Attendees,
-                AttendeesAmount = -1
+                AttendeesAmount = eventEntity.Attendees.Count()
             };
 
         }

@@ -39,19 +39,7 @@ namespace PassIn.Api.Controllers
         }
 
 
-        [HttpPost]
-        [Route("{eventId}/register")]
-        [ProducesResponseType(typeof(ResponseResgisteredJson), StatusCodes.Status201Created)]
-        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status404NotFound)]
-        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status409Conflict)]
-        public IActionResult RegisterAttendee([FromRoute] Guid eventId,[FromBody] RequestRegisterEventJson request) {
-
-            var useCase = new RegisterAttendeeEventonUseCase();
-            var response = useCase.execute(eventId, request);
-            return Created(string.Empty, response);
-        
-        }
+       
 
     }
 }
